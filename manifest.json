@@ -1,0 +1,19 @@
+{
+  "name": "LuckyHills",
+  "short_name": "LuckyHills",
+  "theme_color": "",
+  "background_color": "#15010A",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1773745798-favicon-32-cpjfzfsr.webp",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}
